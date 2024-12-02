@@ -9029,6 +9029,71 @@
         {
           "map": "MAP_PETALBURG_CITY",
           "base_label": "gPetalburgCity",
+          "land_mons": {
+            "encounter_rate": 10,
+            "mons": [
+              {
+                "min_level": 8,
+                "max_level": 13,
+                "species": "SPECIES_CUTIEFLY"
+              },
+              {
+                "min_level": 8,
+                "max_level": 13,
+                "species": "SPECIES_FLABEBE"
+              },
+              {
+                "min_level": 19,
+                "max_level": 19,
+                "species": "SPECIES_FLOETTE_ETERNAL_FLOWER"
+              },
+              {
+                "min_level": 25,
+                "max_level": 35,
+                "species": "SPECIES_RIBOMBEE"
+              },
+              {
+                "min_level": 8,
+                "max_level": 13,
+                "species": "SPECIES_VOLTORB_HISUIAN"
+              },
+              {
+                "min_level": 13,
+                "max_level": 18,
+                "species": "SPECIES_VOLTORB_HISUIAN"
+              },
+              {
+                "min_level": 19,
+                "max_level": 19,
+                "species": "SPECIES_FLOETTE_ETERNAL_FLOWER"
+              },
+              {
+                "min_level": 19,
+                "max_level": 19,
+                "species": "SPECIES_FLOETTE_ETERNAL_FLOWER"
+              },
+              {
+                "min_level": 25,
+                "max_level": 35,
+                "species": "SPECIES_RIBOMBEE"
+              },
+              {
+                "min_level": 30,
+                "max_level": 35,
+                "species": "SPECIES_ELECTRODE_HISUIAN"
+              },
+              {
+                "min_level": 30,
+                "max_level": 35,
+                "species": "SPECIES_FLORGES"
+              },
+              {
+                "min_level": 47,
+                "max_level": 52,
+                "species": "SPECIES_ELECTRODE_HISUIAN"
+              }
+            ]
+          },
           "water_mons": {
             "encounter_rate": 1,
             "mons": [
@@ -9111,71 +9176,6 @@
                 "min_level": 40,
                 "max_level": 45,
                 "species": "SPECIES_CORPHISH"
-              }
-            ]
-          },
-          "land_mons": {
-            "encounter_rate": 10,
-            "mons": [
-              {
-                "min_level": 8,
-                "max_level": 13,
-                "species": "SPECIES_CUTIEFLY"
-              },
-              {
-                "min_level": 8,
-                "max_level": 13,
-                "species": "SPECIES_FLABEBE"
-              },
-              {
-                "min_level": 19,
-                "max_level": 19,
-                "species": "SPECIES_FLOETTE_ETERNAL_FLOWER"
-              },
-              {
-                "min_level": 25,
-                "max_level": 35,
-                "species": "SPECIES_RIBOMBEE"
-              },
-              {
-                "min_level": 8,
-                "max_level": 13,
-                "species": "SPECIES_VOLTORB_HISUIAN"
-              },
-              {
-                "min_level": 13,
-                "max_level": 18,
-                "species": "SPECIES_VOLTORB_HISUIAN"
-              },
-              {
-                "min_level": 19,
-                "max_level": 19,
-                "species": "SPECIES_FLOETTE_ETERNAL_FLOWER"
-              },
-              {
-                "min_level": 19,
-                "max_level": 19,
-                "species": "SPECIES_FLOETTE_ETERNAL_FLOWER"
-              },
-              {
-                "min_level": 25,
-                "max_level": 35,
-                "species": "SPECIES_RIBOMBEE"
-              },
-              {
-                "min_level": 30,
-                "max_level": 35,
-                "species": "SPECIES_ELECTRODE_HISUIAN"
-              },
-              {
-                "min_level": 30,
-                "max_level": 35,
-                "species": "SPECIES_FLORGES"
-              },
-              {
-                "min_level": 47,
-                "max_level": 52,
-                "species": "SPECIES_ELECTRODE_HISUIAN"
               }
             ]
           }

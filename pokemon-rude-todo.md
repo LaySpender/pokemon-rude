@@ -21,4 +21,3 @@ can go through jump over steps in little root town probably related to the ends 
 - Enable all 100 TMs
 
 ## Change parts of the towns
-- Rename FLAG_UNUSED_0x493 to littleRootTown_prison_tm_frustration

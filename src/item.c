@@ -217,6 +217,8 @@ bool8 AddBagItem(u16 itemId, u16 count)
 {
     u8 i;
 
+    DebugPrintf("Hello this is line 220 in item.c in method AddBagItem");
+
     if (ItemId_GetPocket(itemId) == POCKET_NONE)
         return FALSE;
 

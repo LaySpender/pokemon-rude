@@ -5,7 +5,7 @@ gText_Birch_Welcome::
 	.string "$"
 
 gText_Birch_Pokemon::
-	.string "Show them what you got Sceptile!\p"
+	.string "Show them what you got Sceptile!{PAUSE 96}\p"
 	.string "\n"
 	.string "$"
 

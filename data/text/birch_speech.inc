@@ -1,13 +1,11 @@
 gText_Birch_Welcome::
-	.string "Hi! Sorry to keep you waiting!\p"
-	.string "Welcome to the world of POKéMON!\p"
-	.string "My name is BIRCH.\p"
-	.string "But everyone calls me the POKéMON\n"
-	.string "PROFESSOR.\p"
+	.string "What the hell! Who are you!?\p"
+	.string "And why are we both in this dark\n"
+	.string "place? Did you kidnapp me?!\p"
 	.string "$"
 
 gText_Birch_Pokemon::
-	.string "This is what we call a “POKéMON.”\p"
+	.string "Show them what you got Sceptile!\p"
 	.string "\n"
 	.string "$"
 
@@ -29,7 +27,8 @@ gText_Birch_MainSpeech::
 	.string "$"
 
 gText_Birch_AndYouAre::
-	.string "And you are?$"
+	.string "So I guess the most appropriate\n"
+	.string "questions I can ask now are ...$"
 
 gText_Birch_BoyOrGirl::
 	.string "Are you a boy?\n"

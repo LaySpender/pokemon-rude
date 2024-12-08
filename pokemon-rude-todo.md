@@ -20,3 +20,12 @@ pick up any item -> game crashes
 ## Change parts of the towns
 
 ## Change intro ✅
+
+## Starters
+Diglett
+Toedscool
+Tynamo ✅
+
+Glameow
+Timburr
+Pikachu

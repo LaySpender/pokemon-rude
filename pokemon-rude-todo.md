@@ -6,6 +6,10 @@ pick up any item -> game crashes
 - issue is probably related to the item pocket being bigger than 255 therefore u8 is too small and has to be adjusted everywhere to u16
 
 ## Add different pokemon for each route and town
+Ninjatom (adjusted)
+Iksbat (adjusted)
+Metagross (adjusted)
+
 Glameow
 Timburr
 Pikachu
@@ -30,7 +34,7 @@ https://www.youtube.com/watch?v=P-IwbpxGSZk&ab_channel=TeamAqua%27sHideout
 ## Change Wally's catch tutorial
 Catches Cosmog
 
-## Starters
+## Starters ✅
 Diglett ✅
 Toedscool ✅
 Tynamo ✅

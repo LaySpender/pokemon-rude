@@ -16,6 +16,9 @@ Petalburg Woods ✅
 - Increase Bag Size ✅
 - Add mega-ring
 - Add mega stones
+- - metagross ✅
+- - gardevoir ✅
+- - GALLADITE TODO 102
 - Add z-power ring
 - Add z-powers
 - Add dynamax band

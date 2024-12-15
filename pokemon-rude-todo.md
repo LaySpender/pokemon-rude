@@ -6,13 +6,11 @@ pick up any item -> game crashes
 - issue is probably related to the item pocket being bigger than 255 therefore u8 is too small and has to be adjusted everywhere to u16
 
 ## Add different pokemon for each route and town
-Ninjatom (adjusted) ✅
-Iksbat (adjusted) ✅
-Metagross (adjusted) ✅
-
-Glameow
-Timburr
-Pikachu
+101 ✅
+102 ✅
+103 ✅
+104
+Petalburg Woods ✅
 
 ## Add items
 - Increase Bag Size ✅
@@ -25,6 +23,12 @@ Pikachu
 - Enable all 100 TMs
 
 ## Change parts of the towns
+Little Root Town ✅
+Oldale Town ✅
+Petalburg City ✅
+Petalburg Woods
+Rustboro City
+...
 
 ## Change Title Screen
 https://www.youtube.com/watch?v=P-IwbpxGSZk&ab_channel=TeamAqua%27sHideout

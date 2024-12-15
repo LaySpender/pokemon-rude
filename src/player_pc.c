@@ -224,7 +224,10 @@ static const struct MenuAction sItemStorage_MenuActions[] =
 
 static const u16 sNewGamePCItems[][2] =
 {
-    { ITEM_POTION, 1 },
+    { ITEM_MEGA_RING, 1 },
+    { ITEM_Z_POWER_RING, 1 },
+    { ITEM_POKEMON_BOX, 1 },
+    { ITEM_LINKING_CORD, 1 },
     { ITEM_NONE, 0 }
 };
 

@@ -1052,7 +1052,7 @@
 // Item Ball Flags
 #define FLAG_ITEM_ROUTE_102_GARDEVOIRITE                            0x3E8
 #define FLAG_ITEM_ROUTE_116_X_SPECIAL                               0x3E9
-#define FLAG_ITEM_ROUTE_104_PP_UP                                   0x3EA
+#define FLAG_ITEM_ROUTE_104_AUDINITE                                0x3EA
 #define FLAG_ITEM_ROUTE_105_IRON                                    0x3EB
 #define FLAG_ITEM_ROUTE_106_PROTEIN                                 0x3EC
 #define FLAG_ITEM_ROUTE_109_PP_UP                                   0x3ED
@@ -1107,7 +1107,7 @@
 #define FLAG_ITEM_GRANITE_CAVE_B2F_RARE_CANDY                       0x41E
 #define FLAG_ITEM_PETALBURG_WOODS_X_ATTACK                          0x41F
 #define FLAG_ITEM_PETALBURG_WOODS_GREAT_BALL                        0x420
-#define FLAG_ITEM_ROUTE_104_POKE_BALL                               0x421
+#define FLAG_ITEM_ROUTE_104_GYARADOSITE                             0x421
 #define FLAG_ITEM_PETALBURG_WOODS_ETHER                             0x422
 #define FLAG_ITEM_MAGMA_HIDEOUT_3F_3R_ECAPE_ROPE                    0x423
 #define FLAG_ITEM_TRICK_HOUSE_PUZZLE_1_ORANGE_MAIL                  0x424
@@ -1185,7 +1185,7 @@
 #define FLAG_ITEM_AQUA_HIDEOUT_B1F_NUGGET                           0x46C
 #define FLAG_ITEM_MOSSDEEP_STEVENS_HOUSE_HM08                       0x46D // Unused Flag, leftover from R/S. HM08 is given to the player directly in Emerald
 #define FLAG_ITEM_ROUTE_119_NUGGET                                  0x46E
-#define FLAG_ITEM_ROUTE_104_POTION                                  0x46F
+#define FLAG_ITEM_ROUTE_104_BLASTOISINITE                           0x46F
 #define FLAG_UNUSED_0x470                                           0x470 // Unused Flag
 #define FLAG_ITEM_ROUTE_103_PP_UP                                   0x471
 #define FLAG_UNUSED_0x472                                           0x472 // Unused Flag
@@ -1224,7 +1224,7 @@
 
 #define FLAG_ITEM_LITTLEROOT_TOWN_TM_21                             0x493 // Unused Flag
 #define FLAG_ITEM_ROUTE_101_METAGROSSITE                            0x494 // Unused Flag
-#define FLAG_UNUSED_0x495                                           0x495 // Unused Flag
+#define FLAG_ITEM_ROUTE_102_GALLADITE                               0x495 // Unused Flag
 #define FLAG_UNUSED_0x496                                           0x496 // Unused Flag
 #define FLAG_UNUSED_0x497                                           0x497 // Unused Flag
 #define FLAG_UNUSED_0x498                                           0x498 // Unused Flag

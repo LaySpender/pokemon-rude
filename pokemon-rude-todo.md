@@ -9,27 +9,30 @@ pick up any item -> game crashes
 101 ✅
 102 ✅
 103 ✅
-104
+104 ✅
 Petalburg Woods ✅
 
 ## Add items
 - Increase Bag Size ✅
-- Add mega-ring
+- Add mega-ring ✅
 - Add mega stones
 - - metagross ✅
 - - gardevoir ✅
-- - GALLADITE TODO 102
-- Add z-power ring
+- - Gallade ✅
+- - Audino ✅
+- - Blastoise ✅
+- - Gyrados ✅
+- - ... 
+- Add z-power ring ✅
 - Add z-powers
-- Add dynamax band
-- Add pokemon storage system
+- Add pokemon storage system ✅
 - Enable all 100 TMs
 
 ## Change parts of the towns
 Little Root Town ✅
 Oldale Town ✅
 Petalburg City ✅
-Petalburg Woods
+Petalburg Woods ✅
 Rustboro City
 ...
 

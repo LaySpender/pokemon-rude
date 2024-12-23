@@ -1364,7 +1364,7 @@
             "mons": [
               {
                 "min_level": 12,
-                "max_level": 12,
+                "max_level": 16,
                 "species": "SPECIES_TYROGUE"
               },
               {

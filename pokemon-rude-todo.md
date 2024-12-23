@@ -55,3 +55,5 @@ edit rival pokemon
 - rival has all 3 starters
 edit wally pokemon
 - has only legendaries in his team
+edit top 4
+- ghost: epitaff

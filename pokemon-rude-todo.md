@@ -25,6 +25,10 @@ Petalburg Woods ✅
 - - Manectric ✅
 - - Diancie ✅
 - - Tyranitar ✅
+- - Lucario ✅
+- - Mawile ✅
+- - Sableye ✅
+- - Aggron ✅
 - - ... 
 - Add z-power ring ✅
 - Add z-powers

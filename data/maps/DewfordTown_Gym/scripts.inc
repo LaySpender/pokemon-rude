@@ -272,6 +272,10 @@ DewfordTown_Gym_EventScript_RightGymStatue::
 	goto DewfordTown_Gym_EventScript_GymStatue
 	end
 
+DewfordTown_Gym_EventScript_GymLeaderIsNotHereSign::
+	msgbox DewfordTown_Gym_Text_GymLeaderIsNotHere, MSGBOX_SIGN
+	end
+
 DewfordTown_Gym_EventScript_GymStatueCertified::
 	msgbox DewfordTown_Gym_Text_GymStatueCertified, MSGBOX_DEFAULT
 	releaseall
@@ -457,3 +461,8 @@ DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons:
 	.string "that can battle.\p"
 	.string "I'm sorry, but I'd like you to come back\n"
 	.string "with at least two POKéMON.$"
+
+DewfordTown_Gym_Text_GymLeaderIsNotHere:
+	.string "Looks like the gym leader is not here!\n"
+	.string "Maybe he is checking the other paths?\p"
+	.string "Or he is on his 1 week vacation ...$"

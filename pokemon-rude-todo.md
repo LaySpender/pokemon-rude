@@ -22,6 +22,9 @@ Petalburg Woods ✅
 - - Audino ✅
 - - Blastoise ✅
 - - Gyrados ✅
+- - Manectric ✅
+- - Diancie ✅
+- - Tyranitar ✅
 - - ... 
 - Add z-power ring ✅
 - Add z-powers

@@ -11,6 +11,7 @@ pick up any item -> game crashes
 103 ✅
 104 ✅
 Petalburg Woods ✅
+110
 
 ## Add items
 - Increase Bag Size ✅
@@ -29,6 +30,7 @@ Petalburg Woods ✅
 - - Mawile ✅
 - - Sableye ✅
 - - Aggron ✅
+- - Blaziken ✅
 - - ... 
 - Add z-power ring ✅
 - Add z-powers

@@ -8429,23 +8429,23 @@ F_TRAINER_FEMALE |
         {
             {
 #line 3420
-            .species = SPECIES_VOLTORB,
+            .species = SPECIES_ELECTRODE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 3422
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 3421
-            .lvl = 17,
+            .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 3424
-            .species = SPECIES_MAGNEMITE,
+            .species = SPECIES_MAGNETON,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 3426
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 3425
-            .lvl = 17,
+            .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -12041,38 +12041,38 @@ F_TRAINER_FEMALE |
         {
             {
 #line 4869
-            .species = SPECIES_VOLTORB,
+            .species = SPECIES_ELECTRODE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 4871
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 4870
-            .lvl = 20,
+            .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 4872
-                MOVE_ROLLOUT,
-                MOVE_SPARK,
+                MOVE_ELECTROWEB,
+                MOVE_ELECTRIC_TERRAIN,
                 MOVE_SELF_DESTRUCT,
-                MOVE_SHOCK_WAVE,
+                MOVE_THUNDERBOLT,
             },
             },
             {
 #line 4877
-            .species = SPECIES_ELECTRIKE,
+            .species = SPECIES_MANECTRIC,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 4879
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 4878
-            .lvl = 20,
+            .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 4880
-                MOVE_SHOCK_WAVE,
-                MOVE_LEER,
-                MOVE_QUICK_ATTACK,
-                MOVE_HOWL,
+                MOVE_THUNDERBOLT,
+                MOVE_ELECTRIC_TERRAIN,
+                MOVE_LIGHT_SCREEN,
+                MOVE_OVERHEAT,
             },
             },
             {
@@ -12082,35 +12082,35 @@ F_TRAINER_FEMALE |
 #line 4887
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 4886
-            .lvl = 22,
+            .lvl = 40,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 4888
-                MOVE_SUPERSONIC,
-                MOVE_SHOCK_WAVE,
-                MOVE_THUNDER_WAVE,
-                MOVE_SONIC_BOOM,
+                MOVE_ELECTRIC_TERRAIN,
+                MOVE_THUNDERBOLT,
+                MOVE_REFLECT,
+                MOVE_FLASH_CANNON,
             },
             },
             {
 #line 4893
-            .species = SPECIES_MANECTRIC,
+            .species = SPECIES_MANECTRIC_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 4893
-            .heldItem = ITEM_SITRUS_BERRY,
+            .heldItem = ITEM_LIFE_ORB,
 #line 4895
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 4894
-            .lvl = 24,
+            .lvl = 42,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 4896
-                MOVE_QUICK_ATTACK,
-                MOVE_THUNDER_WAVE,
-                MOVE_SHOCK_WAVE,
-                MOVE_HOWL,
+                MOVE_ICE_FANG,
+                MOVE_HYPER_VOICE,
+                MOVE_ELECTRO_BALL,
+                MOVE_FLAMETHROWER,
             },
             },
         },
@@ -23337,7 +23337,7 @@ F_TRAINER_FEMALE |
             },
             {
 #line 9344
-            .species = SPECIES_TENGULIST,
+            .species = SPECIES_SHIFTRY,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9346
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),

@@ -42,7 +42,8 @@ Little Root Town ✅
 Oldale Town ✅
 Petalburg City ✅
 Petalburg Woods ✅
-Rustboro City
+Rustboro City ✅
+Slateport City ✅
 ...
 
 ## Change Title Screen

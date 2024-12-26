@@ -27208,23 +27208,23 @@ F_TRAINER_FEMALE |
         {
             {
 #line 10854
-            .species = SPECIES_LOTAD,
+            .species = SPECIES_LOMBRE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 10856
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10855
-            .lvl = 13,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 10858
-            .species = SPECIES_TORCHIC,
+            .species = SPECIES_COMBUSKEN,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 10860
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10859
-            .lvl = 15,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -27256,18 +27256,18 @@ F_TRAINER_FEMALE |
 #line 10873
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10872
-            .lvl = 13,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 10875
-            .species = SPECIES_TREECKO,
+            .species = SPECIES_GROVYL,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 10877
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10876
-            .lvl = 15,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -27531,18 +27531,18 @@ F_TRAINER_FEMALE |
 #line 10980
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10979
-            .lvl = 13,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 10982
-            .species = SPECIES_MUDKIP,
+            .species = SPECIES_MARSHTOMP,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 10984
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10983
-            .lvl = 15,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -27576,18 +27576,18 @@ F_TRAINER_FEMALE |
 #line 10997
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10996
-            .lvl = 13,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 10999
-            .species = SPECIES_TREECKO,
+            .species = SPECIES_GROVYL,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 11001
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 11000
-            .lvl = 15,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -35474,23 +35474,23 @@ F_TRAINER_FEMALE |
         {
             {
 #line 14131
-            .species = SPECIES_LOTAD,
+            .species = SPECIES_LOMBRE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 14133
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 14132
-            .lvl = 13,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 14135
-            .species = SPECIES_TORCHIC,
+            .species = SPECIES_COMBUSKEN,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 14137
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 14136
-            .lvl = 15,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -35524,18 +35524,18 @@ F_TRAINER_FEMALE |
 #line 14150
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 14149
-            .lvl = 13,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 14152
-            .species = SPECIES_MUDKIP,
+            .species = SPECIES_MARSHTOMP,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 14154
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 14153
-            .lvl = 15,
+            .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },

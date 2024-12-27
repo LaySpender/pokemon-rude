@@ -1061,7 +1061,7 @@
 #define FLAG_ITEM_ROUTE_111_TM_SANDSTORM                            0x3F0
 #define FLAG_ITEM_ROUTE_111_STARDUST                                0x3F1
 #define FLAG_ITEM_ROUTE_111_SLOWBRONITE                             0x3F2
-#define FLAG_ITEM_ROUTE_112_NUGGET                                  0x3F3
+#define FLAG_ITEM_ROUTE_112_CAMERUPTITE                             0x3F3
 #define FLAG_ITEM_ROUTE_113_MAX_ETHER                               0x3F4
 #define FLAG_ITEM_ROUTE_113_SUPER_REPEL                             0x3F5
 #define FLAG_ITEM_ROUTE_114_RARE_CANDY                              0x3F6
@@ -1225,7 +1225,7 @@
 #define FLAG_ITEM_LITTLEROOT_TOWN_TM_21                             0x493 // Unused Flag
 #define FLAG_ITEM_ROUTE_101_METAGROSSITE                            0x494 // Unused Flag
 #define FLAG_ITEM_ROUTE_102_GALLADITE                               0x495 // Unused Flag
-#define FLAG_UNUSED_0x496                                           0x496 // Unused Flag
+#define FLAG_ITEM_ROUTE_112_PIDGEOTITE                              0x496 // Unused Flag
 #define FLAG_UNUSED_0x497                                           0x497 // Unused Flag
 #define FLAG_UNUSED_0x498                                           0x498 // Unused Flag
 #define FLAG_UNUSED_0x499                                           0x499 // Unused Flag

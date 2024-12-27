@@ -35,9 +35,9 @@ Petalburg Woods ✅
 - - Bisaflor 
 - - Glurak X
 - - Glurak Y
-- - Tauboss
+- - Tauboss ✅
 - - Simsala
-- - Lahmus
+- - Lahmus ✅
 - - Gengar
 - - Stahlos
 - - Pinsir
@@ -52,7 +52,7 @@ Petalburg Woods ✅
 - - Sumpex ✅
 - - Meditalis
 - - Tohaido
-- - Camerupt
+- - Camerupt ✅
 - - Altaria
 - - Banette
 - - Absol

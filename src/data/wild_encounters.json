@@ -3336,64 +3336,64 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 24,
-                "max_level": 24,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_GALVANTULA"
               },
               {
-                "min_level": 24,
-                "max_level": 24,
-                "species": "SPECIES_MAGNEMITE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_BELLIBOLT"
               },
               {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_BOLTUND"
               },
               {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_MAGNEMITE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_ELECTIVIRE"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_PAWMOT"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
-                "species": "SPECIES_MAGNEMITE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_LUXRAY"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_ZEBSTRIKA"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_MAGNEMITE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_MAGNEZONE"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_VIKAVOLT"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_MAGNEMITE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_HELIOLISK"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_ELECTRODE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_AMPHAROS"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_MAGNETON"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_RAICHU_ALOLAN"
               }
             ]
           }
@@ -6862,64 +6862,64 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 24,
-                "max_level": 24,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_GALVANTULA"
               },
               {
-                "min_level": 24,
-                "max_level": 24,
-                "species": "SPECIES_MAGNEMITE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_BELLIBOLT"
               },
               {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_BOLTUND"
               },
               {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_MAGNEMITE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_ELECTIVIRE"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_PAWMOT"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
-                "species": "SPECIES_MAGNEMITE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_LUXRAY"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_ZEBSTRIKA"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_MAGNEMITE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_MAGNEZONE"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_VIKAVOLT"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_MAGNEMITE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_HELIOLISK"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 60,
+                "max_level": 66,
+                "species": "SPECIES_AMPHAROS_MEGA"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_MAGNEMITE"
+                "min_level": 50,
+                "max_level": 55,
+                "species": "SPECIES_RAICHU_ALOLAN"
               }
             ]
           }

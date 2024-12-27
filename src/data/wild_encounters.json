@@ -2534,64 +2534,64 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 15,
-                "max_level": 15,
-                "species": "SPECIES_NUMEL"
+                "min_level": 40,
+                "max_level": 48,
+                "species": "SPECIES_CHARIZARD"
               },
               {
-                "min_level": 15,
-                "max_level": 15,
-                "species": "SPECIES_KOFFING"
+                "min_level": 40,
+                "max_level": 48,
+                "species": "SPECIES_SNEASLER"
               },
               {
-                "min_level": 16,
-                "max_level": 16,
-                "species": "SPECIES_NUMEL"
+                "min_level": 40,
+                "max_level": 48,
+                "species": "SPECIES_CERULEDGE"
               },
               {
-                "min_level": 15,
-                "max_level": 15,
-                "species": "SPECIES_MACHOP"
+                "min_level": 40,
+                "max_level": 48,
+                "species": "SPECIES_ARMAROUGE"
               },
               {
-                "min_level": 15,
-                "max_level": 15,
-                "species": "SPECIES_TORKOAL"
+                "min_level": 40,
+                "max_level": 48,
+                "species": "SPECIES_GLISCOR"
               },
               {
-                "min_level": 15,
-                "max_level": 15,
-                "species": "SPECIES_SLUGMA"
+                "min_level": 40,
+                "max_level": 48,
+                "species": "SPECIES_TYRANTRUM"
               },
               {
-                "min_level": 16,
-                "max_level": 16,
-                "species": "SPECIES_KOFFING"
+                "min_level": 40,
+                "max_level": 48,
+                "species": "SPECIES_CARKOL"
               },
               {
-                "min_level": 16,
-                "max_level": 16,
-                "species": "SPECIES_MACHOP"
+                "min_level": 40,
+                "max_level": 48,
+                "species": "SPECIES_EXCADRILL"
               },
               {
-                "min_level": 14,
-                "max_level": 14,
-                "species": "SPECIES_TORKOAL"
+                "min_level": 40,
+                "max_level": 48,
+                "species": "SPECIES_CARKOL"
               },
               {
-                "min_level": 16,
-                "max_level": 16,
-                "species": "SPECIES_TORKOAL"
+                "min_level": 40,
+                "max_level": 48,
+                "species": "SPECIES_EXCADRILL"
               },
               {
-                "min_level": 14,
-                "max_level": 14,
-                "species": "SPECIES_GRIMER"
+                "min_level": 60,
+                "max_level": 66,
+                "species": "SPECIES_CHARIZARD_MEGA_X"
               },
               {
-                "min_level": 14,
-                "max_level": 14,
-                "species": "SPECIES_GRIMER"
+                "min_level": 60,
+                "max_level": 66,
+                "species": "SPECIES_CHARIZARD_MEGA_Y"
               }
             ]
           }

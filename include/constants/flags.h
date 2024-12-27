@@ -1072,8 +1072,8 @@
 #define FLAG_ITEM_ROUTE_116_MANECTITE                               0x3FB
 #define FLAG_ITEM_ROUTE_116_FIRE_STONE                              0x3FC
 #define FLAG_ITEM_ROUTE_116_HP_UP                                   0x3FD
-#define FLAG_ITEM_ROUTE_117_GREAT_BALL                              0x3FE
-#define FLAG_ITEM_ROUTE_117_REVIVE                                  0x3FF
+#define FLAG_ITEM_ROUTE_117_SCEPTILITE                              0x3FE
+#define FLAG_ITEM_ROUTE_117_SWAMPERTITE                             0x3FF
 #define FLAG_ITEM_ROUTE_119_SUPER_REPEL                             0x400
 #define FLAG_ITEM_ROUTE_119_ZINC                                    0x401
 #define FLAG_ITEM_ROUTE_119_ELIXIR_1                                0x402

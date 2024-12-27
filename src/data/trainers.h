@@ -21647,23 +21647,23 @@ F_TRAINER_FEMALE |
         {
             {
 #line 8674
-            .species = SPECIES_SHROOMISH,
+            .species = SPECIES_BRELOOM,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 8676
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 8675
-            .lvl = 17,
+            .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 8678
-            .species = SPECIES_MARILL,
+            .species = SPECIES_AZUMARILL,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 8680
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 8679
-            .lvl = 17,
+            .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },

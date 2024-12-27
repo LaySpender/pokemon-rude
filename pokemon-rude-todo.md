@@ -48,8 +48,8 @@ Petalburg Woods ✅
 - - Scherox
 - - Skaraborn
 - - Hundemon
-- - Gewaldro
-- - Sumpex
+- - Gewaldro ✅
+- - Sumpex ✅
 - - Meditalis
 - - Tohaido
 - - Camerupt

@@ -9458,12 +9458,12 @@ F_TRAINER_FEMALE |
         {
             {
 #line 3832
-            .species = SPECIES_SANDSHREW,
+            .species = SPECIES_SANDSLASH,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 3834
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 3833
-            .lvl = 18,
+            .lvl = 40,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },

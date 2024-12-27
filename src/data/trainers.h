@@ -27262,7 +27262,7 @@ F_TRAINER_FEMALE |
             },
             {
 #line 10875
-            .species = SPECIES_GROVYL,
+            .species = SPECIES_GROVYLE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 10877
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
@@ -27582,7 +27582,7 @@ F_TRAINER_FEMALE |
             },
             {
 #line 10999
-            .species = SPECIES_GROVYL,
+            .species = SPECIES_GROVYLE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 11001
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),

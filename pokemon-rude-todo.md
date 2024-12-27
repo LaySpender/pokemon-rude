@@ -11,7 +11,7 @@ pick up any item -> game crashes
 103 ✅
 104 ✅
 Petalburg Woods ✅
-110
+110 ✅
 
 ## Add items
 - Increase Bag Size ✅
@@ -31,7 +31,38 @@ Petalburg Woods ✅
 - - Sableye ✅
 - - Aggron ✅
 - - Blaziken ✅
-- - ... 
+- - Ampharos ✅
+- - Bisaflor 
+- - Glurak X
+- - Glurak Y
+- - Tauboss
+- - Simsala
+- - Lahmus
+- - Gengar
+- - Stahlos
+- - Pinsir
+- - Aerodactyl
+- - Mewtu X
+- - Mewtu Y
+- - Kangama
+- - Scherox
+- - Skaraborn
+- - Hundemon
+- - Gewaldro
+- - Sumpex
+- - Meditalis
+- - Tohaido
+- - Camerupt
+- - Altaria
+- - Banette
+- - Absol
+- - Firnontor
+- - Brutalanda
+- - Latias
+- - Latios
+- - Schlapor
+- - Knakrack
+- - Rexblisar
 - Add z-power ring ✅
 - Add z-powers
 - Add pokemon storage system ✅

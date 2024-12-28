@@ -33,7 +33,7 @@ Petalburg Woods ✅
 - - Aggron ✅
 - - Blaziken ✅
 - - Ampharos ✅
-- - Bisaflor 
+- - Bisaflor ✅
 - - Glurak X ✅ 
 - - Glurak Y ✅
 - - Tauboss ✅
@@ -42,7 +42,7 @@ Petalburg Woods ✅
 - - Gengar
 - - Stahlos ✅
 - - Pinsir ✅
-- - Aerodactyl
+- - Aerodactyl ✅
 - - Mewtu X
 - - Mewtu Y
 - - Kangama ✅
@@ -52,7 +52,7 @@ Petalburg Woods ✅
 - - Gewaldro ✅
 - - Sumpex ✅
 - - Meditalis ✅
-- - Tohaido
+- - Tohaido ✅
 - - Camerupt ✅
 - - Altaria
 - - Banette

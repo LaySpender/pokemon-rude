@@ -1171,7 +1171,7 @@
 #define FLAG_ITEM_ROUTE_115_LOPUNNITE                               0x45E
 #define FLAG_ITEM_SAFARI_ZONE_NORTH_CALCIUM                         0x45F
 #define FLAG_ITEM_MT_PYRE_3F_SUPER_REPEL                            0x460
-#define FLAG_ITEM_ROUTE_118_HYPER_POTION                            0x461
+#define FLAG_ITEM_ROUTE_118_VENUSAURITE                             0x461
 #define FLAG_ITEM_NEW_MAUVILLE_FULL_HEAL                            0x462
 #define FLAG_ITEM_NEW_MAUVILLE_PARALYZE_HEAL                        0x463
 #define FLAG_ITEM_AQUA_HIDEOUT_B1F_MASTER_BALL                      0x464
@@ -1229,7 +1229,7 @@
 #define FLAG_ITEM_FIERY_PATH_CHARIZARDITE_X                         0x497 // Unused Flag
 #define FLAG_ITEM_FIERY_PATH_CHARIZARDITE_Y                         0x498 // Unused Flag
 #define FLAG_ITEM_JAGGED_PASS_SCIZORITE                             0x499 // Unused Flag
-#define FLAG_UNUSED_0x49A                                           0x49A // Unused Flag
+#define FLAG_ITEM_ROUTE_118_SHARPEDONITE                            0x49A // Unused Flag
 #define FLAG_UNUSED_0x49B                                           0x49B // Unused Flag
 #define FLAG_UNUSED_0x49C                                           0x49C // Unused Flag
 #define FLAG_UNUSED_0x49D                                           0x49D // Unused Flag

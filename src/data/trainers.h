@@ -17899,23 +17899,23 @@ F_TRAINER_FEMALE |
         {
             {
 #line 7199
-            .species = SPECIES_ALTARIA,
+            .species = SPECIES_ALTARIA_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 7201
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 7200
-            .lvl = 37,
+            .lvl = 88,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 7203
-            .species = SPECIES_ALTARIA,
+            .species = SPECIES_SALAMENCE_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 7205
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 7204
-            .lvl = 37,
+            .lvl = 88,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -17942,23 +17942,23 @@ F_TRAINER_FEMALE |
         {
             {
 #line 7216
-            .species = SPECIES_ALTARIA,
+            .species = SPECIES_ALTARIA_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 7218
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 7217
-            .lvl = 41,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 7220
-            .species = SPECIES_ALTARIA,
+            .species = SPECIES_SALAMANCE_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 7222
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 7221
-            .lvl = 41,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -31778,19 +31778,19 @@ F_TRAINER_FEMALE |
         {
             {
 #line 12675
-            .species = SPECIES_MEDICHAM,
+            .species = SPECIES_MEDICHAM_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12677
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12676
-            .lvl = 39,
+            .lvl = 88,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 12678
-                MOVE_PSYCHIC,
-                MOVE_FIRE_PUNCH,
-                MOVE_PSYCH_UP,
+                MOVE_ZEN_HEADBUTT,
+                MOVE_KNOCK_OFF,
+                MOVE_AXE_KICK,
                 MOVE_PROTECT,
             },
             },
@@ -31801,14 +31801,14 @@ F_TRAINER_FEMALE |
 #line 12685
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12684
-            .lvl = 39,
+            .lvl = 88,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 12686
-                MOVE_FOCUS_PUNCH,
-                MOVE_ROCK_TOMB,
-                MOVE_REST,
+                MOVE_CLOSE_COMBAT,
+                MOVE_HEADLONG_RUSH,
+                MOVE_STONE_EDGE,
                 MOVE_BELLY_DRUM,
             },
             },
@@ -31835,19 +31835,19 @@ F_TRAINER_FEMALE |
         {
             {
 #line 12700
-            .species = SPECIES_MEDICHAM,
+            .species = SPECIES_MEDICHAM_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12702
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12701
-            .lvl = 43,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 12703
-                MOVE_PSYCHIC,
-                MOVE_FIRE_PUNCH,
-                MOVE_PSYCH_UP,
+                MOVE_ZEN_HEADBUTT,
+                MOVE_KNOCK_OFF,
+                MOVE_AXE_KICK,
                 MOVE_PROTECT,
             },
             },
@@ -31863,9 +31863,9 @@ F_TRAINER_FEMALE |
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 12711
-                MOVE_FOCUS_PUNCH,
-                MOVE_ROCK_TOMB,
-                MOVE_REST,
+                MOVE_CLOSE_COMBAT,
+                MOVE_HEADLONG_RUSH,
+                MOVE_STONE_EDGE,
                 MOVE_BELLY_DRUM,
             },
             },

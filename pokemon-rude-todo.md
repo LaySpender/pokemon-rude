@@ -41,13 +41,13 @@ Petalburg Woods ✅
 - - Lahmus ✅
 - - Gengar
 - - Stahlos ✅
-- - Pinsir
+- - Pinsir ✅
 - - Aerodactyl
 - - Mewtu X
 - - Mewtu Y
 - - Kangama
 - - Scherox
-- - Skaraborn
+- - Skaraborn ✅
 - - Hundemon ✅
 - - Gewaldro ✅
 - - Sumpex ✅

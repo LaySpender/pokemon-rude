@@ -12,6 +12,7 @@ pick up any item -> game crashes
 104 ✅
 Petalburg Woods ✅
 110 ✅
+111 (Desert after gym 4)
 
 ## Add items
 - Increase Bag Size ✅
@@ -33,13 +34,13 @@ Petalburg Woods ✅
 - - Blaziken ✅
 - - Ampharos ✅
 - - Bisaflor 
-- - Glurak X
-- - Glurak Y
+- - Glurak X ✅ 
+- - Glurak Y ✅
 - - Tauboss ✅
 - - Simsala
 - - Lahmus ✅
 - - Gengar
-- - Stahlos
+- - Stahlos ✅
 - - Pinsir
 - - Aerodactyl
 - - Mewtu X
@@ -47,7 +48,7 @@ Petalburg Woods ✅
 - - Kangama
 - - Scherox
 - - Skaraborn
-- - Hundemon
+- - Hundemon ✅
 - - Gewaldro ✅
 - - Sumpex ✅
 - - Meditalis

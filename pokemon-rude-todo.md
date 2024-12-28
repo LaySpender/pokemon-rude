@@ -45,7 +45,7 @@ Petalburg Woods ✅
 - - Aerodactyl
 - - Mewtu X
 - - Mewtu Y
-- - Kangama
+- - Kangama ✅
 - - Scherox
 - - Skaraborn ✅
 - - Hundemon ✅
@@ -58,11 +58,11 @@ Petalburg Woods ✅
 - - Banette
 - - Absol
 - - Firnontor
-- - Brutalanda
+- - Brutalanda ✅
 - - Latias
 - - Latios
-- - Schlapor
-- - Knakrack
+- - Schlapor ✅
+- - Knakrack ✅
 - - Rexblisar
 - Add z-power ring ✅
 - Add z-powers

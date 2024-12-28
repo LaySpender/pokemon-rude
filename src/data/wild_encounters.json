@@ -857,64 +857,64 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 20,
-                "max_level": 20,
-                "species": "SPECIES_SANDSHREW"
+                "min_level": 55,
+                "max_level": 65,
+                "species": "SPECIES_VOLCARONA"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
-                "species": "SPECIES_TRAPINCH"
+                "min_level": 55,
+                "max_level": 65,
+                "species": "SPECIES_AERODACTYL"
               },
               {
-                "min_level": 21,
-                "max_level": 21,
-                "species": "SPECIES_SANDSHREW"
+                "min_level": 55,
+                "max_level": 65,
+                "species": "SPECIES_RABSCA"
               },
               {
-                "min_level": 21,
-                "max_level": 21,
-                "species": "SPECIES_TRAPINCH"
+                "min_level": 55,
+                "max_level": 65,
+                "species": "SPECIES_FLYGON"
               },
               {
-                "min_level": 19,
-                "max_level": 19,
-                "species": "SPECIES_BALTOY"
+                "min_level": 55,
+                "max_level": 65,
+                "species": "SPECIES_CLAYDOL"
               },
               {
-                "min_level": 21,
-                "max_level": 21,
-                "species": "SPECIES_BALTOY"
+                "min_level": 55,
+                "max_level": 65,
+                "species": "SPECIES_CACTURNE"
               },
               {
-                "min_level": 19,
-                "max_level": 19,
-                "species": "SPECIES_SANDSHREW"
+                "min_level": 55,
+                "max_level": 65,
+                "species": "SPECIES_HIPPOWDON"
               },
               {
-                "min_level": 19,
-                "max_level": 19,
-                "species": "SPECIES_TRAPINCH"
+                "min_level": 55,
+                "max_level": 65,
+                "species": "SPECIES_BRAMBLEGHAST"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
-                "species": "SPECIES_BALTOY"
+                "min_level": 55,
+                "max_level": 65,
+                "species": "SPECIES_HIPPOWDON"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
-                "species": "SPECIES_CACNEA"
+                "min_level": 55,
+                "max_level": 65,
+                "species": "SPECIES_BRAMBLEGHAST"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_CACNEA"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_SANDACONDA_GIGANTAMAX"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_CACNEA"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_AERODACTYL_MEGA"
               }
             ]
           },

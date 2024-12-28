@@ -46,12 +46,12 @@ Petalburg Woods ✅
 - - Mewtu X
 - - Mewtu Y
 - - Kangama ✅
-- - Scherox
+- - Scherox ✅
 - - Skaraborn ✅
 - - Hundemon ✅
 - - Gewaldro ✅
 - - Sumpex ✅
-- - Meditalis
+- - Meditalis ✅
 - - Tohaido
 - - Camerupt ✅
 - - Altaria

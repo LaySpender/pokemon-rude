@@ -2757,64 +2757,64 @@
             "encounter_rate": 20,
             "mons": [
               {
-                "min_level": 21,
-                "max_level": 21,
-                "species": "SPECIES_NUMEL"
+                "min_level": 46,
+                "max_level": 52,
+                "species": "SPECIES_MEDICHAM"
               },
               {
-                "min_level": 21,
-                "max_level": 21,
-                "species": "SPECIES_NUMEL"
+                "min_level": 46,
+                "max_level": 52,
+                "species": "SPECIES_SCIZOR"
               },
               {
-                "min_level": 21,
-                "max_level": 21,
-                "species": "SPECIES_MACHOP"
+                "min_level": 46,
+                "max_level": 52,
+                "species": "SPECIES_XATU"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
-                "species": "SPECIES_NUMEL"
+                "min_level": 46,
+                "max_level": 52,
+                "species": "SPECIES_GREEDENT"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
-                "species": "SPECIES_SPOINK"
+                "min_level": 46,
+                "max_level": 52,
+                "species": "SPECIES_MAROWAK"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
-                "species": "SPECIES_MACHOP"
+                "min_level": 46,
+                "max_level": 52,
+                "species": "SPECIES_MAROWAK_ALOLAN"
               },
               {
-                "min_level": 21,
-                "max_level": 21,
-                "species": "SPECIES_SPOINK"
+                "min_level": 46,
+                "max_level": 52,
+                "species": "SPECIES_GIMMIGHOUL"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_MACHOP"
+                "min_level": 46,
+                "max_level": 52,
+                "species": "SPECIES_GOURGEIST"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_NUMEL"
+                "min_level": 46,
+                "max_level": 52,
+                "species": "SPECIES_GIMMIGHOUL"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_SPOINK"
+                "min_level": 46,
+                "max_level": 52,
+                "species": "SPECIES_GOURGEIST"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_NUMEL"
+                "min_level": 70,
+                "max_level": 78,
+                "species": "SPECIES_SCIZOR_MEGA"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
-                "species": "SPECIES_SPOINK"
+                "min_level": 70,
+                "max_level": 78,
+                "species": "SPECIES_MEDICHAM_MEGA"
               }
             ]
           }

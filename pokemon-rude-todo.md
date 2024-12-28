@@ -37,7 +37,7 @@ Petalburg Woods ✅
 - - Glurak X ✅ 
 - - Glurak Y ✅
 - - Tauboss ✅
-- - Simsala
+- - Simsala (ADD MEGASTONE)
 - - Lahmus ✅
 - - Gengar
 - - Stahlos ✅

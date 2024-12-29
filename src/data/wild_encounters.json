@@ -8053,64 +8053,64 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_GLALIE"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_ABOMASNOW"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_BEARTIC"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_VANILLUXE"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_AVALUGG_HISUIAN"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_AVALUGG"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_WEAVILE"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_SANDSLASH_ALOLAN"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_GOLBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_EISCUE"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_ARCTOZOLT"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_GOLBAT"
+                "min_level": 98,
+                "max_level": 100,
+                "species": "SPECIES_GLALIE_MEGA"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 98,
+                "max_level": 100,
+                "species": "SPECIES_ABOMASNOW_MEGA"
               }
             ]
           }
@@ -8122,64 +8122,64 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_GLALIE"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_ABOMASNOW"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_BEARTIC"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_VANILLUXE"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_AVALUGG_HISUIAN"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_AVALUGG"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_WEAVILE"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_SANDSLASH_ALOLAN"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_GOLBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_EISCUE"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_ARCTOZOLT"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_GOLBAT"
+                "min_level": 98,
+                "max_level": 100,
+                "species": "SPECIES_GLALIE_MEGA"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 98,
+                "max_level": 100,
+                "species": "SPECIES_ABOMASNOW_MEGA"
               }
             ]
           }
@@ -8191,64 +8191,64 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_GLALIE"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_ABOMASNOW"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_BEARTIC"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_VANILLUXE"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_AVALUGG_HISUIAN"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_AVALUGG"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_WEAVILE"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_SANDSLASH_ALOLAN"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_GOLBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_EISCUE"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_ARCTOZOLT"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_GOLBAT"
+                "min_level": 98,
+                "max_level": 100,
+                "species": "SPECIES_GLALIE_MEGA"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 98,
+                "max_level": 100,
+                "species": "SPECIES_ABOMASNOW_MEGA"
               }
             ]
           },
@@ -8256,29 +8256,29 @@
             "encounter_rate": 4,
             "mons": [
               {
-                "min_level": 5,
-                "max_level": 35,
-                "species": "SPECIES_TENTACOOL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_GLACEON"
               },
               {
-                "min_level": 5,
-                "max_level": 35,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_WALREIN"
               },
               {
-                "min_level": 25,
-                "max_level": 30,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_DELIBIRD"
               },
               {
-                "min_level": 25,
-                "max_level": 30,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_IRON_BUNDLE"
               },
               {
-                "min_level": 25,
-                "max_level": 35,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_IRON_BUNDLE"
               }
             ]
           },
@@ -8286,54 +8286,54 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 5,
-                "max_level": 10,
-                "species": "SPECIES_MAGIKARP"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_DEWGONG"
               },
               {
-                "min_level": 5,
-                "max_level": 10,
-                "species": "SPECIES_TENTACOOL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_CRYOGONAL"
               },
               {
-                "min_level": 10,
-                "max_level": 30,
-                "species": "SPECIES_MAGIKARP"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_DEWGONG"
               },
               {
-                "min_level": 10,
-                "max_level": 30,
-                "species": "SPECIES_TENTACOOL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_CRYOGONAL"
               },
               {
-                "min_level": 10,
-                "max_level": 30,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               },
               {
-                "min_level": 25,
-                "max_level": 30,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               },
               {
-                "min_level": 30,
-                "max_level": 35,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               },
               {
-                "min_level": 20,
-                "max_level": 25,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               },
               {
-                "min_level": 35,
-                "max_level": 40,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               },
               {
-                "min_level": 40,
-                "max_level": 45,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               }
             ]
           }
@@ -8345,64 +8345,64 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_GLALIE"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_ABOMASNOW"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_BEARTIC"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_VANILLUXE"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_AVALUGG_HISUIAN"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_AVALUGG"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_WEAVILE"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_SANDSLASH_ALOLAN"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_GOLBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_EISCUE"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_ARCTOZOLT"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_GOLBAT"
+                "min_level": 98,
+                "max_level": 100,
+                "species": "SPECIES_GLALIE_MEGA"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 98,
+                "max_level": 100,
+                "species": "SPECIES_ABOMASNOW_MEGA"
               }
             ]
           },
@@ -8410,29 +8410,29 @@
             "encounter_rate": 4,
             "mons": [
               {
-                "min_level": 5,
-                "max_level": 35,
-                "species": "SPECIES_TENTACOOL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_GLACEON"
               },
               {
-                "min_level": 5,
-                "max_level": 35,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_WALREIN"
               },
               {
-                "min_level": 25,
-                "max_level": 30,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_DELIBIRD"
               },
               {
-                "min_level": 25,
-                "max_level": 30,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_IRON_BUNDLE"
               },
               {
-                "min_level": 25,
-                "max_level": 35,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_IRON_BUNDLE"
               }
             ]
           },
@@ -8440,54 +8440,54 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 5,
-                "max_level": 10,
-                "species": "SPECIES_MAGIKARP"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_DEWGONG"
               },
               {
-                "min_level": 5,
-                "max_level": 10,
-                "species": "SPECIES_TENTACOOL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_CRYOGONAL"
               },
               {
-                "min_level": 10,
-                "max_level": 30,
-                "species": "SPECIES_MAGIKARP"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_DEWGONG"
               },
               {
-                "min_level": 10,
-                "max_level": 30,
-                "species": "SPECIES_TENTACOOL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_CRYOGONAL"
               },
               {
-                "min_level": 10,
-                "max_level": 30,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               },
               {
-                "min_level": 25,
-                "max_level": 30,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               },
               {
-                "min_level": 30,
-                "max_level": 35,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               },
               {
-                "min_level": 20,
-                "max_level": 25,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               },
               {
-                "min_level": 35,
-                "max_level": 40,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               },
               {
-                "min_level": 40,
-                "max_level": 45,
-                "species": "SPECIES_WAILMER"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_JYNX"
               }
             ]
           }
@@ -9221,64 +9221,64 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_GLALIE"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_ABOMASNOW"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_BEARTIC"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_VANILLUXE"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_ZUBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_AVALUGG_HISUIAN"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_AVALUGG"
               },
               {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_SNORUNT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_WEAVILE"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_SPHEAL"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_SANDSLASH_ALOLAN"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_GOLBAT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_EISCUE"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_SNORUNT"
+                "min_level": 80,
+                "max_level": 88,
+                "species": "SPECIES_ARCTOZOLT"
               },
               {
-                "min_level": 32,
-                "max_level": 32,
-                "species": "SPECIES_GOLBAT"
+                "min_level": 98,
+                "max_level": 100,
+                "species": "SPECIES_GLALIE_MEGA"
               },
               {
-                "min_level": 30,
-                "max_level": 30,
-                "species": "SPECIES_SNORUNT"
+                "min_level": 98,
+                "max_level": 100,
+                "species": "SPECIES_ABOMASNOW_MEGA"
               }
             ]
           }

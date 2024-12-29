@@ -39,7 +39,7 @@ Petalburg Woods ✅
 - - Tauboss ✅
 - - Simsala ✅
 - - Lahmus ✅
-- - Gengar
+- - Gengar ✅
 - - Stahlos ✅
 - - Pinsir ✅
 - - Aerodactyl ✅
@@ -55,14 +55,14 @@ Petalburg Woods ✅
 - - Tohaido ✅
 - - Camerupt ✅
 - - Altaria ✅
-- - Banette
+- - Banette ✅
 - - Absol ✅
-- - Firnontor
 - - Brutalanda ✅
-- - Latias ✅ (no megastones)
-- - Latios ✅ (no megastones)
+- - Latias ✅ (no megastones only form)
+- - Latios ✅ (no megastones only form)
 - - Schlapor ✅
 - - Knakrack ✅
+- - Firnontor
 - - Rexblisar
 - Add z-power ring ✅
 - Add z-powers

@@ -12,7 +12,9 @@ pick up any item -> game crashes
 104 ✅
 Petalburg Woods ✅
 110 ✅
-111 (Desert after gym 4)
+111 ✅
+...
+128 (updating trainers)
 
 ## Add items
 - Increase Bag Size ✅
@@ -62,8 +64,8 @@ Petalburg Woods ✅
 - - Latios ✅ (no megastones only form)
 - - Schlapor ✅
 - - Knakrack ✅
-- - Firnontor
-- - Rexblisar
+- - Firnontor (ADD mega stone !!!)
+- - Rexblisar (ADD mega stone !!!)
 - Add z-power ring ✅
 - Add z-powers
 - Add pokemon storage system ✅

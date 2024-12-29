@@ -54,13 +54,13 @@ Petalburg Woods ✅
 - - Meditalis ✅
 - - Tohaido ✅
 - - Camerupt ✅
-- - Altaria
+- - Altaria ✅
 - - Banette
-- - Absol
+- - Absol ✅
 - - Firnontor
 - - Brutalanda ✅
-- - Latias
-- - Latios
+- - Latias ✅ (no megastones)
+- - Latios ✅ (no megastones)
 - - Schlapor ✅
 - - Knakrack ✅
 - - Rexblisar
@@ -98,4 +98,4 @@ edit rival pokemon
 edit wally pokemon
 - has only legendaries in his team
 edit top 4
-- ghost: epitaff
+- ghost: Epitaff, Gholdengo

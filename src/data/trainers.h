@@ -1164,23 +1164,23 @@ F_TRAINER_FEMALE |
         {
             {
 #line 536
-            .species = SPECIES_MIGHTYENA,
+            .species = SPECIES_SHARPEDO_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 538
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 537
-            .lvl = 34,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 540
-            .species = SPECIES_GOLBAT,
+            .species = SPECIES_SLOWBRO_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 542
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 541
-            .lvl = 34,
+            .lvl = 80,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },

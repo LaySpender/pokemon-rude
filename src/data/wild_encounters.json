@@ -3559,64 +3559,64 @@
             "encounter_rate": 20,
             "mons": [
               {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_POOCHYENA"
-              },
-              {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_MIGHTYENA"
-              },
-              {
-                "min_level": 27,
-                "max_level": 27,
-                "species": "SPECIES_MIGHTYENA"
-              },
-              {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_ODDISH"
-              },
-              {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_MARILL"
-              },
-              {
-                "min_level": 26,
-                "max_level": 26,
-                "species": "SPECIES_ODDISH"
-              },
-              {
-                "min_level": 27,
-                "max_level": 27,
-                "species": "SPECIES_ODDISH"
-              },
-              {
-                "min_level": 27,
-                "max_level": 27,
-                "species": "SPECIES_MARILL"
-              },
-              {
-                "min_level": 25,
-                "max_level": 25,
+                "min_level": 64,
+                "max_level": 72,
                 "species": "SPECIES_ABSOL"
               },
               {
-                "min_level": 27,
-                "max_level": 27,
-                "species": "SPECIES_ABSOL"
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_ALTARIA"
               },
               {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_KECLEON"
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_MIGHTYENA"
               },
               {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_SEEDOT"
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_MOTHIM"
+              },
+              {
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_VENOMOTH"
+              },
+              {
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_VIVILLON"
+              },
+              {
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_LEAVANNY"
+              },
+              {
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_YANMEGA"
+              },
+              {
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_SLITHER_WING"
+              },
+              {
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_KLEAVOR"
+              },
+              {
+                "min_level": 90,
+                "max_level": 98,
+                "species": "SPECIES_ABSOL_MEGA"
+              },
+              {
+                "min_level": 90,
+                "max_level": 98,
+                "species": "SPECIES_ALTARIA_MEGA"
               }
             ]
           },
@@ -3624,29 +3624,29 @@
             "encounter_rate": 4,
             "mons": [
               {
-                "min_level": 20,
-                "max_level": 30,
-                "species": "SPECIES_MARILL"
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_ARAQUANID"
               },
               {
-                "min_level": 10,
-                "max_level": 20,
-                "species": "SPECIES_MARILL"
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_ARMALDO"
               },
               {
-                "min_level": 30,
-                "max_level": 35,
-                "species": "SPECIES_MARILL"
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_ACCELGOR"
               },
               {
-                "min_level": 5,
-                "max_level": 10,
-                "species": "SPECIES_MARILL"
+                "min_level": 64,
+                "max_level": 72,
+                "species": "SPECIES_VESPIQUEN"
               },
               {
-                "min_level": 20,
-                "max_level": 30,
-                "species": "SPECIES_GOLDEEN"
+                "min_level": 90,
+                "max_level": 98,
+                "species": "SPECIES_ARAQUANID_TOTEM"
               }
             ]
           },
@@ -3654,54 +3654,54 @@
             "encounter_rate": 30,
             "mons": [
               {
-                "min_level": 5,
-                "max_level": 10,
-                "species": "SPECIES_MAGIKARP"
+                "min_level": 60,
+                "max_level": 72,
+                "species": "SPECIES_SAMUROTT"
               },
               {
-                "min_level": 5,
-                "max_level": 10,
-                "species": "SPECIES_GOLDEEN"
+                "min_level": 60,
+                "max_level": 72,
+                "species": "SPECIES_SAMUROTT_HISUIAN"
               },
               {
-                "min_level": 10,
-                "max_level": 30,
-                "species": "SPECIES_MAGIKARP"
+                "min_level": 60,
+                "max_level": 72,
+                "species": "SPECIES_SAMUROTT"
               },
               {
-                "min_level": 10,
-                "max_level": 30,
-                "species": "SPECIES_GOLDEEN"
+                "min_level": 60,
+                "max_level": 72,
+                "species": "SPECIES_SAMUROTT_HISUIAN"
               },
               {
-                "min_level": 10,
-                "max_level": 30,
-                "species": "SPECIES_BARBOACH"
+                "min_level": 60,
+                "max_level": 72,
+                "species": "SPECIES_GASTRODON"
               },
               {
-                "min_level": 25,
-                "max_level": 30,
-                "species": "SPECIES_BARBOACH"
+                "min_level": 60,
+                "max_level": 72,
+                "species": "SPECIES_GASTRODON"
               },
               {
-                "min_level": 30,
-                "max_level": 35,
-                "species": "SPECIES_BARBOACH"
+                "min_level": 60,
+                "max_level": 72,
+                "species": "SPECIES_RELICANTH"
               },
               {
-                "min_level": 20,
-                "max_level": 25,
-                "species": "SPECIES_BARBOACH"
+                "min_level": 60,
+                "max_level": 72,
+                "species": "SPECIES_GOLDUCK"
               },
               {
-                "min_level": 35,
-                "max_level": 40,
-                "species": "SPECIES_BARBOACH"
+                "min_level": 60,
+                "max_level": 72,
+                "species": "SPECIES_PALAFIN_ZERO"
               },
               {
-                "min_level": 40,
-                "max_level": 45,
-                "species": "SPECIES_BARBOACH"
+                "min_level": 90,
+                "max_level": 98,
+                "species": "SPECIES_PALAFIN_HERO"
               }
             ]
           }

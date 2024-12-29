@@ -30727,45 +30727,45 @@ F_TRAINER_FEMALE |
         {
             {
 #line 12257
-            .species = SPECIES_TROPIUS,
+            .species = SPECIES_LATIOS_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12259
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12258
-            .lvl = 31,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12261
-            .species = SPECIES_SLUGMA,
+            .species = SPECIES_SCEPTILE_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12263
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12262
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12265
-            .species = SPECIES_PELIPPER,
+            .species = SPECIES_BLAZIKEN_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12267
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12266
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12269
-            .species = SPECIES_GROVYLE,
+            .species = SPECIES_SWAMPERT_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12271
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12270
-            .lvl = 34,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -30792,45 +30792,45 @@ F_TRAINER_FEMALE |
         {
             {
 #line 12282
-            .species = SPECIES_TROPIUS,
+            .species = SPECIES_LATIOS_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12284
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12283
-            .lvl = 31,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12286
-            .species = SPECIES_PELIPPER,
+            .species = SPECIES_SCEPTILE_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12288
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12287
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12290
-            .species = SPECIES_LUDICOLO,
+            .species = SPECIES_BLAZIKEN_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12292
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12291
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12294
-            .species = SPECIES_COMBUSKEN,
+            .species = SPECIES_SWAMPERT_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12296
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12295
-            .lvl = 34,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -30857,45 +30857,45 @@ F_TRAINER_FEMALE |
         {
             {
 #line 12307
-            .species = SPECIES_TROPIUS,
+            .species = SPECIES_LATIOS_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12309
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12308
-            .lvl = 31,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12311
-            .species = SPECIES_LUDICOLO,
+            .species = SPECIES_SWAMPERT_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12313
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12312
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12315
-            .species = SPECIES_SLUGMA,
+            .species = SPECIES_BLAZIKEN_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12317
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12316
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12319
-            .species = SPECIES_MARSHTOMP,
+            .species = SPECIES_SCEPTILE_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12321
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12320
-            .lvl = 34,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -30924,45 +30924,45 @@ F_TRAINER_FEMALE |
         {
             {
 #line 12332
-            .species = SPECIES_TROPIUS,
+            .species = SPECIES_LATIOS_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12334
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12333
-            .lvl = 31,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12336
-            .species = SPECIES_SLUGMA,
+            .species = SPECIES_SWAMPERT_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12338
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12337
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12340
-            .species = SPECIES_PELIPPER,
+            .species = SPECIES_BLAZIKEN_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12342
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12341
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12344
-            .species = SPECIES_GROVYLE,
+            .species = SPECIES_SCEPTILE_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12346
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12345
-            .lvl = 34,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -30991,45 +30991,45 @@ F_TRAINER_FEMALE |
         {
             {
 #line 12357
-            .species = SPECIES_TROPIUS,
+            .species = SPECIES_LATIOS_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12359
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12358
-            .lvl = 31,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12361
-            .species = SPECIES_PELIPPER,
+            .species = SPECIES_SCEPTILE_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12363
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12362
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12365
-            .species = SPECIES_LUDICOLO,
+            .species = SPECIES_BLAZIKEN_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12367
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12366
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12369
-            .species = SPECIES_COMBUSKEN,
+            .species = SPECIES_SWAMPERT_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12371
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12370
-            .lvl = 34,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
@@ -31058,45 +31058,45 @@ F_TRAINER_FEMALE |
         {
             {
 #line 12382
-            .species = SPECIES_TROPIUS,
+            .species = SPECIES_LATIOS_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12384
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12383
-            .lvl = 31,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12386
-            .species = SPECIES_LUDICOLO,
+            .species = SPECIES_SWAMPERT_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12388
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12387
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12390
-            .species = SPECIES_SLUGMA,
+            .species = SPECIES_BLAZIKEN_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12392
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12391
-            .lvl = 32,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 12394
-            .species = SPECIES_MARSHTOMP,
+            .species = SPECIES_SCEPTILE_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12396
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12395
-            .lvl = 34,
+            .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },

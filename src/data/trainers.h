@@ -23006,7 +23006,7 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9207
-            .species = SPECIES_WEEZING_ALOLAN,
+            .species = SPECIES_WEEZING_GALARIAN,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9209
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),

@@ -23421,34 +23421,34 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9374
-            .species = SPECIES_CAMERUPT,
+            .species = SPECIES_CAMERUPT_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9376
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9375
-            .lvl = 36,
+            .lvl = 90,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 9378
-            .species = SPECIES_MIGHTYENA,
+            .species = SPECIES_GENGAR_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9380
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9379
-            .lvl = 38,
+            .lvl = 90,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
             {
 #line 9382
-            .species = SPECIES_GOLBAT,
+            .species = SPECIES_CHARIZARD_Y,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9384
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9383
-            .lvl = 40,
+            .lvl = 90,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },

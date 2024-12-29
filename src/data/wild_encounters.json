@@ -10391,63 +10391,63 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 21,
-                "max_level": 21,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 21,
-                "max_level": 21,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 24,
-                "max_level": 24,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 24,
-                "max_level": 24,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               }
             ]
@@ -10460,63 +10460,63 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 21,
-                "max_level": 21,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 21,
-                "max_level": 21,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 24,
-                "max_level": 24,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 24,
-                "max_level": 24,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               }
             ]
@@ -10529,63 +10529,63 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 21,
-                "max_level": 21,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 21,
-                "max_level": 21,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 24,
-                "max_level": 24,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 24,
-                "max_level": 24,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               }
             ]
@@ -10598,63 +10598,63 @@
             "encounter_rate": 10,
             "mons": [
               {
-                "min_level": 21,
-                "max_level": 21,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 21,
-                "max_level": 21,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 22,
-                "max_level": 22,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 23,
-                "max_level": 23,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               },
               {
-                "min_level": 24,
-                "max_level": 24,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_SANDSHREW"
               },
               {
-                "min_level": 24,
-                "max_level": 24,
+                "min_level": 55,
+                "max_level": 65,
                 "species": "SPECIES_TRAPINCH"
               }
             ]

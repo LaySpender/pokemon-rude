@@ -4885,7 +4885,7 @@ F_TRAINER_FEMALE |
             },
             {
 #line 2014
-            .species = SPECIES_BANNET,
+            .species = SPECIES_BANETTE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 2016
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),

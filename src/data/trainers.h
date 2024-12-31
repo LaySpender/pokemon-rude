@@ -11841,13 +11841,13 @@ F_TRAINER_FEMALE |
 #line 4778
                 MOVE_SWORDS_DANCE,
                 MOVE_OUTRAGE,
-                MOVE_STEALTH_ROCKS,
+                MOVE_STEALTH_ROCK,
                 MOVE_EARTHQUAKE,
             },
             },
             {
 #line 4783
-            .species = SPECIES_SALAMANCE_MEGA,
+            .species = SPECIES_SALAMENCE_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 4783
             .heldItem = ITEM_LIFE_ORB,

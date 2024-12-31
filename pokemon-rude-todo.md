@@ -14,12 +14,17 @@ Petalburg Woods ✅
 110 ✅
 111 ✅
 ...
-128 (updating trainers)
+128 ✅
+skypillar
+8. arena
+siegesstraße
+elite 4
+champ
 
 ## Add items
 - Increase Bag Size ✅
 - Add mega-ring ✅
-- Add mega stones
+- Add mega stones ✅ 
 - - metagross ✅
 - - gardevoir ✅
 - - Gallade ✅
@@ -45,8 +50,8 @@ Petalburg Woods ✅
 - - Stahlos ✅
 - - Pinsir ✅
 - - Aerodactyl ✅
-- - Mewtu X
-- - Mewtu Y
+- - Mewtu X ✅
+- - Mewtu Y ✅
 - - Kangama ✅
 - - Scherox ✅
 - - Skaraborn ✅
@@ -60,14 +65,14 @@ Petalburg Woods ✅
 - - Banette ✅
 - - Absol ✅
 - - Brutalanda ✅
-- - Latias ✅ (no megastones only form)
-- - Latios ✅ (no megastones only form)
+- - Latias ✅
+- - Latios ✅
 - - Schlapor ✅
 - - Knakrack ✅
-- - Firnontor (ADD mega stone !!!)
-- - Rexblisar (ADD mega stone !!!)
+- - Firnontor ✅
+- - Rexblisar ✅
 - Add z-power ring ✅
-- Add z-powers
+- Add z-powers ✅
 - Add pokemon storage system ✅
 - Enable all 100 TMs
 

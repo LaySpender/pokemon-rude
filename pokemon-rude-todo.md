@@ -15,8 +15,8 @@ Petalburg Woods ✅
 111 ✅
 ...
 128 ✅
-skypillar
-8. arena
+skypillar ✅
+8. arena ✅
 siegesstraße
 elite 4
 champ

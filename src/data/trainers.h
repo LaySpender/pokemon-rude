@@ -15505,112 +15505,112 @@ F_TRAINER_FEMALE |
         {
             {
 #line 6254
-            .species = SPECIES_WAILORD,
+            .species = SPECIES_GYARADOS_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 6256
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 6255
-            .lvl = 57,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 6257
-                MOVE_RAIN_DANCE,
-                MOVE_WATER_SPOUT,
-                MOVE_DOUBLE_EDGE,
-                MOVE_BLIZZARD,
+                MOVE_DRAGON_DANCE,
+                MOVE_CRUNCH,
+                MOVE_EARTHQUAKE,
+                MOVE_WATERFALL,
             },
             },
             {
 #line 6262
-            .species = SPECIES_TENTACRUEL,
+            .species = SPECIES_PALAFIN_HERO,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 6264
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 6263
-            .lvl = 55,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 6265
-                MOVE_TOXIC,
-                MOVE_HYDRO_PUMP,
-                MOVE_SLUDGE_BOMB,
-                MOVE_ICE_BEAM,
+                MOVE_JET_PUNCH,
+                MOVE_BULK_UP,
+                MOVE_DRAIN_PUNCH,
+                MOVE_WAVE_CRASH,
             },
             },
             {
 #line 6270
-            .species = SPECIES_LUDICOLO,
+            .species = SPECIES_DONDOZO,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 6272
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 6271
-            .lvl = 56,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 6273
-                MOVE_GIGA_DRAIN,
-                MOVE_SURF,
-                MOVE_LEECH_SEED,
-                MOVE_DOUBLE_TEAM,
+                MOVE_REST,
+                MOVE_SLEEP_TALK,
+                MOVE_BODY_PRESS,
+                MOVE_CURSE,
             },
             },
             {
 #line 6278
-            .species = SPECIES_WHISCASH,
+            .species = SPECIES_SWAMPERT_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 6280
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 6279
-            .lvl = 56,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 6281
                 MOVE_EARTHQUAKE,
-                MOVE_SURF,
-                MOVE_AMNESIA,
-                MOVE_HYPER_BEAM,
+                MOVE_WATERFALL,
+                MOVE_ICE_PUNCH,
+                MOVE_SUPERPOWER,
             },
             },
             {
 #line 6286
-            .species = SPECIES_GYARADOS,
+            .species = SPECIES_MILOTIC,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 6288
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 6287
-            .lvl = 56,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 6289
-                MOVE_DRAGON_DANCE,
-                MOVE_EARTHQUAKE,
-                MOVE_HYPER_BEAM,
-                MOVE_SURF,
+                MOVE_SCALD,
+                MOVE_RECOVER,
+                MOVE_TOXIC,
+                MOVE_HAZE,
             },
             },
             {
 #line 6294
-            .species = SPECIES_MILOTIC,
+            .species = SPECIES_KYOGRE_PRIMAL,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 6294
-            .heldItem = ITEM_SITRUS_BERRY,
+            .heldItem = ITEM_LIFE_ORB,
 #line 6296
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 6295
-            .lvl = 58,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 6297
-                MOVE_RECOVER,
-                MOVE_SURF,
+                MOVE_CALM_MIND,
+                MOVE_ORIGIN_PULSE,
                 MOVE_ICE_BEAM,
-                MOVE_TOXIC,
+                MOVE_THUNDER,
             },
             },
         },

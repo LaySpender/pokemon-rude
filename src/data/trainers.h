@@ -11766,7 +11766,7 @@ F_TRAINER_FEMALE |
 #line 4747
         .doubleBattle = FALSE,
 #line 4748
-        .aiFlags = AI_FLAG_CHECK_BAD_MOVE | AI_FLAG_TRY_TO_FAINT | AI_FLAG_CHECK_VIABILITY,
+        .aiFlags = AI_FLAG_CHECK_BAD_MOVE | AI_FLAG_TRY_TO_FAINT | AI_FLAG_CHECK_VIABILITY | AI_FLAG_SETUP_FIRST_TURN | AI_FLAG_SMART_SWITCHING | AI_FLAG_OMNISCIENT,
 #line 4749
         .mugshotEnabled = TRUE,
         .mugshotColor = MUGSHOT_COLOR_BLUE,
@@ -15496,7 +15496,7 @@ F_TRAINER_FEMALE |
 #line 6250
         .doubleBattle = FALSE,
 #line 6251
-        .aiFlags = AI_FLAG_CHECK_BAD_MOVE | AI_FLAG_TRY_TO_FAINT | AI_FLAG_CHECK_VIABILITY,
+        .aiFlags = AI_FLAG_CHECK_BAD_MOVE | AI_FLAG_TRY_TO_FAINT | AI_FLAG_CHECK_VIABILITY | AI_FLAG_SETUP_FIRST_TURN | AI_FLAG_SMART_SWITCHING | AI_FLAG_OMNISCIENT,
 #line 6252
         .mugshotEnabled = TRUE,
         .mugshotColor = MUGSHOT_COLOR_YELLOW,
@@ -23650,92 +23650,92 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9464
-            .species = SPECIES_ALTARIA,
+            .species = SPECIES_AMPHAROS_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9466
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9465
-            .lvl = 44,
+            .lvl = 96,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 9467
-                MOVE_AERIAL_ACE,
-                MOVE_SAFEGUARD,
-                MOVE_DRAGON_BREATH,
-                MOVE_DRAGON_DANCE,
+                MOVE_VOLT_SWITCH,
+                MOVE_FOCUS_BLAST,
+                MOVE_ICE_BEAM,
+                MOVE_DRAGON_PULSE,
             },
             },
             {
 #line 9472
-            .species = SPECIES_DELCATTY,
+            .species = SPECIES_KANGASKHAN_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9474
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9473
-            .lvl = 43,
+            .lvl = 96,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 9475
-                MOVE_SING,
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
+                MOVE_FAKE_OUT,
+                MOVE_POWER_UP_PUNCH,
+                MOVE_BODY_SLAM,
+                MOVE_SHADOW_CLAW,
             },
             },
             {
 #line 9480
-            .species = SPECIES_ROSELIA,
+            .species = SPECIES_SALAMENCE_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9482
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9481
-            .lvl = 44,
+            .lvl = 96,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 9483
-                MOVE_MAGICAL_LEAF,
-                MOVE_LEECH_SEED,
-                MOVE_GIGA_DRAIN,
-                MOVE_TOXIC,
+                MOVE_DRAGON_DANCE,
+                MOVE_DOUBLE_EDGE,
+                MOVE_DRAGON_CLAW,
+                MOVE_ROOST,
             },
             },
             {
 #line 9488
-            .species = SPECIES_MAGNETON,
+            .species = SPECIES_MANECTRIC_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9490
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9489
-            .lvl = 41,
+            .lvl = 96,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 9491
-                MOVE_SUPERSONIC,
-                MOVE_THUNDERBOLT,
-                MOVE_TRI_ATTACK,
-                MOVE_SCREECH,
+                MOVE_ICE_FANG,
+                MOVE_HYPER_VOICE,
+                MOVE_ELECTRO_BALL,
+                MOVE_FLAMETHROWER,
             },
             },
             {
 #line 9496
-            .species = SPECIES_GARDEVOIR,
+            .species = SPECIES_GARDEVOIR_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9498
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9497
-            .lvl = 45,
+            .lvl = 96,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 9499
-                MOVE_DOUBLE_TEAM,
+                MOVE_HYPER_VOICE,
                 MOVE_CALM_MIND,
                 MOVE_PSYCHIC,
-                MOVE_FUTURE_SIGHT,
+                MOVE_FOCUS_BLAST,
             },
             },
         },
@@ -30272,98 +30272,98 @@ F_TRAINER_FEMALE |
 #line 12055
         .doubleBattle = FALSE,
 #line 12056
-        .aiFlags = AI_FLAG_CHECK_BAD_MOVE | AI_FLAG_TRY_TO_FAINT | AI_FLAG_CHECK_VIABILITY,
+        .aiFlags = AI_FLAG_CHECK_BAD_MOVE | AI_FLAG_TRY_TO_FAINT | AI_FLAG_CHECK_VIABILITY | AI_FLAG_SETUP_FIRST_TURN | AI_FLAG_SMART_SWITCHING | AI_FLAG_OMNISCIENT,
         .partySize = 5,
         .party = (const struct TrainerMon[])
         {
             {
 #line 12058
-            .species = SPECIES_ALTARIA,
+            .species = SPECIES_AMPHAROS_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12060
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12059
-            .lvl = 47,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 12061
-                MOVE_AERIAL_ACE,
-                MOVE_SAFEGUARD,
-                MOVE_DRAGON_BREATH,
-                MOVE_DRAGON_DANCE,
+                MOVE_VOLT_SWITCH,
+                MOVE_FOCUS_BLAST,
+                MOVE_ICE_BEAM,
+                MOVE_DRAGON_PULSE,
             },
             },
             {
 #line 12066
-            .species = SPECIES_DELCATTY,
+            .species = SPECIES_KANGASKHAN_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12068
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12067
-            .lvl = 46,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 12069
-                MOVE_SING,
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
+                MOVE_FAKE_OUT,
+                MOVE_POWER_UP_PUNCH,
+                MOVE_BODY_SLAM,
+                MOVE_SHADOW_CLAW,
             },
             },
             {
 #line 12074
-            .species = SPECIES_ROSELIA,
+            .species = SPECIES_SALAMENCE_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12076
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12075
-            .lvl = 47,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 12077
-                MOVE_MAGICAL_LEAF,
-                MOVE_LEECH_SEED,
-                MOVE_GIGA_DRAIN,
-                MOVE_TOXIC,
+                MOVE_DRAGON_DANCE,
+                MOVE_DOUBLE_EDGE,
+                MOVE_DRAGON_CLAW,
+                MOVE_ROOST,
             },
             },
             {
 #line 12082
-            .species = SPECIES_MAGNETON,
+            .species = SPECIES_MANECTRIC_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12084
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12083
-            .lvl = 44,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 12085
-                MOVE_SUPERSONIC,
-                MOVE_THUNDERBOLT,
-                MOVE_TRI_ATTACK,
-                MOVE_SCREECH,
+                MOVE_ICE_FANG,
+                MOVE_HYPER_VOICE,
+                MOVE_ELECTRO_BALL,
+                MOVE_FLAMETHROWER,
             },
             },
             {
 #line 12090
-            .species = SPECIES_GARDEVOIR,
+            .species = SPECIES_GARDEVOIR_MEGA,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 12092
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 12091
-            .lvl = 48,
+            .lvl = 100,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 12093
-                MOVE_DOUBLE_TEAM,
+                MOVE_HYPER_VOICE,
                 MOVE_CALM_MIND,
                 MOVE_PSYCHIC,
-                MOVE_FUTURE_SIGHT,
+                MOVE_FOCUS_BLAST,
             },
             },
         },

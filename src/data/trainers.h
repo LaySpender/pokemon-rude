@@ -4322,7 +4322,7 @@ F_TRAINER_FEMALE |
         {
             {
 #line 1799
-            .species = SPECIES_RELAXO,
+            .species = SPECIES_SNORLAX,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 1801
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),

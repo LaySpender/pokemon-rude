@@ -6,20 +6,6 @@ pick up any item -> game crashes
 - issue is probably related to the item pocket being bigger than 255 therefore u8 is too small and has to be adjusted everywhere to u16
 
 ## Add different pokemon for each route and town
-101 ✅
-102 ✅
-103 ✅
-104 ✅
-Petalburg Woods ✅
-110 ✅
-111 ✅
-...
-128 ✅
-skypillar ✅
-8. arena ✅
-siegesstraße
-elite 4
-champ
 
 ## Add items
 - Increase Bag Size ✅
@@ -104,5 +90,3 @@ edit rival pokemon
 - rival has all 3 starters
 edit wally pokemon
 - has only legendaries in his team
-edit top 4
-- ghost: Epitaff, Gholdengo
